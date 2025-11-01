@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-public class search1 {
+public class search3 {
     public static void main(String[] args) {
         Solution solver = new Solution();
 
